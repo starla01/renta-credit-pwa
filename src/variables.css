@@ -1,0 +1,51 @@
+:root {
+  /** Variables para background */
+  --default-bg: #f7f7f7;
+  --solid-bg: #f4f4f4;
+  --active-bg: #fe1d00;
+  --secondary-bg: #FCE4EC;
+  --primary-menu-bg: #252733;
+  --primary-menu-hv: #2f313d;
+  --primary-bg: #f7f7f7;
+  --warning-bg: #ffe565;
+  --default-overlay: rgba(0, 0, 0, 0.7);
+  --muted-bg: #565656;
+  /** Variables para texto */
+  --main-color: #333;
+  --text-default: #ff0083;
+  --text-secondary: #ffffff;
+  --text-color: #666666;
+  --secondary-color: #808080;
+  --light-color: #8e8e8e;
+  --muted-color: #a5a5a5;
+  --icon-color: #d8d8d8;
+  --active-color: rgb(255, 0, 131);
+  --breadcrumb-color: #ef4a81;
+  --highlight-locker-color: #ef4a81;
+  --promotion-color: #044784;
+  --light-color: #8e8e8e;
+  --highlight-color: #f44c7f;
+  --link-color: #ff0083;
+  --descriptive-subtitle-color: #3a3a3a;
+  --highlight-subtitle-color: #00be32;
+  --primary-baz-color: #17a54d;
+  /** Variables para bordes */
+  --default-border: #dddddd;
+  --light-border: #e8e8e8;
+  /** Layouts */
+  --cart-desktop-columns: 1.5fr repeat(4, 1fr) 1.2fr;
+  /** Variable de ancho del sitio */
+  --max-content-width: 85.3rem;
+  /** Variable de contornos sombreados */
+  --box-shadow-default: 0 0px 2px 0 rgba(51, 51, 51, 0.3);
+  --box-shadow-icon: 0 3px 6px 0 rgba(0, 0, 0, 0.17);
+  /** Inputs */
+  --input-color: rgba(0, 0, 0, 0.87);
+  --input-label: rgba(0, 0, 0, 0.3);
+  --input-border: rgba(0, 0, 0, 0.1);
+  --input-active-border: rgba(255, 0, 131, 0.8);
+  /** Misc */
+  --transparent: transparent;
+  /**Font*/
+  --default-font: "Source Sans Pro", sans-serif;
+}
